@@ -1,16 +1,29 @@
-## Hi there 👋
+# HYBT Technologies | Sovereign AI Infrastructure
 
-<!--
-**hybt-ai/hybt-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Local Intelligence. Distributed Scaling. Zero Cloud Dependency.**
 
-Here are some ideas to get you started:
+HYBT provides enterprise-grade, on-premise AI hardware nodes for data sovereignty. We enable high-performance vision reasoning and event-driven intelligence directly at the edge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Hardware Matrix
+
+| Feature | **NX-Core** | **Nano-Edge** |
+| :--- | :--- | :--- |
+| **Role** | Site / Facility Core | Branch / Zone Node |
+| **Compute** | Jetson Orin NX 16GB | Orin Nano Super 8GB |
+| **Accelerators** | Hailo-8L + Coral TPU | Hailo-8L + Coral TPU |
+| **Storage** | 2TB NVMe | 2TB NVMe + 1TB SD |
+
+---
+
+## Core Scenarios
+
+* **Retail:** Loss prevention and queue analytics.
+* **Logistics:** Facility safety and dock management.
+* **Campus:** Sovereign AI for universities and municipal estates.
+* **Factory:** Line-side inspection and anomaly detection.
+
+---
+
+**Web:** [hybt.ai](https://hybt.ai) | **Email:** [contact@hybt.ai](mailto:contact@hybt.ai)
